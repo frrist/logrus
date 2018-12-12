@@ -1,0 +1,16 @@
+{
+  "author": "frrist",
+  "bugs": {
+    "url": "github.com/frrist/logrus"
+  },
+  "gx": {
+    "dvcsimport": "github.com/frrist/logrus"
+  },
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "",
+  "name": "logrus",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
